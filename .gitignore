@@ -37,10 +37,6 @@ jspm_packages/
 # Environment variables
 .env
 
-# Docker
-docker-compose.yml
-Dockerfile
-
 # Editor directories and files
 .vscode/
 .idea/
